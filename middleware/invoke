@@ -5,5 +5,5 @@
 #
 /usr/bin/invoke_app "$@" -t molssicheminfo \
                          -C "start_jupyter -t -T @tool molssicheminfo.ipynb" \
-                         -r none -w headless arguments \
+                         -r none -w headless \
                          -u anaconda-7
