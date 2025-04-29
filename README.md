@@ -1,3 +1,4 @@
+## check the tutorial videos https://www.youtube.com/playlist?list=PL86ijlf0o1CQSWeZEtuoGgtCB5_20qV8e
 # nanoHUB-Jupyter-template
 This is a repository template for creating a Jupyter Notebook tool that you plan to publish in nanoHUB. The basic steps in the process are listed below. 
 
